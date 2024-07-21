@@ -10,5 +10,6 @@ public class SceneManager : MonoBehaviour
     public void LoadNextScene()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene(nextScene);
+        Time.timeScale = 1f;
     }
 }
