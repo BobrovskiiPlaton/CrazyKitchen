@@ -71,6 +71,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 90eede1adc37f874a8556dcc8b92a736, type: 3}
+      propertyPath: m_TagString
+      value: Orange
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 90eede1adc37f874a8556dcc8b92a736, type: 3}
 --- !u!1 &1551719925798257843 stripped
