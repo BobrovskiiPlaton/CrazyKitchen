@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Orange
+  - Strawberry
+  - Watermelon
   layers:
   - Default
   - TransparentFX
